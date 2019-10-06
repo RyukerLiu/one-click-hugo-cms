@@ -1,8 +1,8 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-## [My Site with NetifyCMS and Hugo Template](https://ryuker-netifycms-hugo.netlify.com/)
+## [My Site with NetifyCMS and Hugo Template](https://ryuker-netlifycms-hugo.netlify.com/)
 
-Manage page: https://ryuker-netifycms-hugo.netlify.com/admin
+Manage page: https://ryuker-netlifycms-hugo.netlify.com/admin
 
 
 
