@@ -1,7 +1,7 @@
 ---
 title: Hugo Static Site with NetifyCMS
 subtitle: The cool thin with JAMstack and GitHub
-image: /img/blog-flavor_wheel.jpg
+image: /img/blog-chemex.jpg
 blurb:
   heading: CMS with Git-base
   text: For Free!
