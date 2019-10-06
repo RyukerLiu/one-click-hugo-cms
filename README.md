@@ -1,5 +1,13 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
+## [My Site with NetifyCMS and Hugo Template](https://ryuker-netifycms-hugo.netlify.com/)
+
+Manage page: https://ryuker-netifycms-hugo.netlify.com/admin
+
+
+
+
+
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
 ## Getting started
